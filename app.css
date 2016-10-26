@@ -6,3 +6,25 @@ a {
   text-decoration: none;
   color: black;
 }
+
+
+.box {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+}
+
+.color {
+  width: 100px;
+  padding: 30px;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+#pink {
+  background-color: hotpink;
+}
+
+#blue {
+  background-color: turquoise;
+}
