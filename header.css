@@ -1,0 +1,58 @@
+/*TOP PORTION OF HEADER*/
+.full-header {
+  border: 1px solid black;
+  width: 90%;
+  height: 250px;
+}
+
+.top-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 1px solid black;
+  width: 100%;
+  height: 150px;
+}
+
+.top-mid {
+  border: 1px solid black;
+  width: 50%;
+  text-align: center;
+}
+
+.main-title {
+  font-size: 90px;
+  text-decoration: none;
+  color: black;
+}
+
+.top-side {
+  border: 1px solid black;
+  width: 25%;
+}
+
+#top-right{
+  text-align: right;
+}
+
+.search-box {
+  border-color: 1px solid gray;
+  width: 100px;
+  height: 10px;
+}
+
+#top-left {
+}
+
+/*BOTTOM PORTION OF HEADER*/
+.bottom-header-one {
+  border: 1px solid black;
+  width: 100%;
+  height: 49px;
+}
+
+.bottom-header-two {
+  border: 1px solid black;
+  width: 100%;
+  height: 49px;
+}
