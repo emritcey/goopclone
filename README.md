@@ -2,5 +2,4 @@
 
 This is a practice project to practice my HTML, CSS, and JS Skills. Based off of the popular lifestyle blog goop.
 
-goop.com
-
+Pure practice. Not a full project. 
